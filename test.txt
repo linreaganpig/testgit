@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dddsaddd
 
 test
@@ -5,9 +6,15 @@ test
 ffffffffffffdddssd
 
 test1fffffffeeee
+=======
+aaaaaaaaaaOWOW
+dsddsddsdd
+test1fffffffeeeedddddsss
+>>>>>>> test3
 
 tet1
 
 
 t1wwwwwwwfifififs;filidsj
 
+ddddd
