@@ -1,5 +1,9 @@
 dddsaddd
+<<<<<<< HEAD
 test
+=======
+ffffffffffffdddssd
+>>>>>>> test2
 test1fffffffeeee
 
 tet1
